@@ -1,0 +1,14 @@
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\test12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\test12.AssemblyInfoInputs.cache
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\test12.AssemblyInfo.cs
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\test12.csproj.CoreCompileInputs.cache
+D:\Programming\C#_Projects\test\test12\bin\Debug\net8.0\test12.exe
+D:\Programming\C#_Projects\test\test12\bin\Debug\net8.0\test12.deps.json
+D:\Programming\C#_Projects\test\test12\bin\Debug\net8.0\test12.runtimeconfig.json
+D:\Programming\C#_Projects\test\test12\bin\Debug\net8.0\test12.dll
+D:\Programming\C#_Projects\test\test12\bin\Debug\net8.0\test12.pdb
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\test12.dll
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\refint\test12.dll
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\test12.pdb
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\test12.genruntimeconfig.cache
+D:\Programming\C#_Projects\test\test12\obj\Debug\net8.0\ref\test12.dll
